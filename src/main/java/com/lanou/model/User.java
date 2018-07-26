@@ -1,6 +1,7 @@
 package com.lanou.model;
 
 public class User {
+    private String modifty;
     private Integer userId;
 
     private String userNames;
